@@ -34,9 +34,13 @@ This is a Rock Paper Scissors game. The game was written given this user input e
 
 
 To start the game follow these instructions:
+
 1. Use Ruby 2.3
+
 2. Download the repo
+
 3. ruby rps.rb
+
 
 To exit the game type 'exit'
 
